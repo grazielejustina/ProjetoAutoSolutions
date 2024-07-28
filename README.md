@@ -21,3 +21,6 @@
 
 **Resultados Esperados:** Melhoria na tomada de decisões, aumento da eficiência operacional e incremento nas vendas.
 
+Competências adquiridas: SQL, Power BI, Metodologias ágeis, Gestão de projetos, Excel
+
+Obs: Como se trata de uma empresa real, os dados foram anonimizados.
