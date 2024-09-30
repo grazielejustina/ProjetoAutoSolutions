@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados: AutoSolutions
+# Projeto de Análise de Dados: Empresa do ramo automobilístico
 
 **Objetivo:** Desenvolver um dashboard interativo para fornecer um relatório geral do desempenho de vendas da AutoSolutions.
 
